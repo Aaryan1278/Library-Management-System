@@ -1,0 +1,27 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "This is a library management API backend for the management of users and the books",
+  "homepage": "https://github.com/Aaryan1278/Library-Management-System#readme",
+  "bugs": {
+    "url": "https://github.com/Aaryan1278/Library-Management-System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaryan1278/Library-Management-System.git"
+  },
+  "license": "ISC",
+  "author": "Aaryan vishwakarma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
