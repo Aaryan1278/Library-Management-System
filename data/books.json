@@ -1,0 +1,42 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "price":"12.99",
+            "publisher":"Aaryan vishwakarma"
+        },
+        {
+            "id": 2,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "price":"15.33",
+            "publisher":"Aaryan vishwakarma"
+            
+        },
+        {
+            "id": 3,
+            "title": "1984",
+            "author": "George Orwell",
+            "price":"15.33",
+            "publisher":"Aaryan vishwakarma"
+            
+        },
+        {
+            "id": 4,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "price": "23.22",
+            "publisher":"Aaryan vishwakarma"
+            
+        },
+        {
+            "id": 5,
+            "title": "The Catcher in the Rye",
+            "author":"Aaryan",
+            "price":"15.33",
+            "publisher":"Aaryan vishwakarma"
+        }
+    ]
+}
